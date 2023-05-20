@@ -8,15 +8,21 @@ Whether you're a seasoned developer in need of a quick reference, a student lear
 
 - [C++](./Cpp/)
 
+- [Python](./Python/)
+
 *More cheatsheets for different programming languages will be added soon!*
 
 Below are some resources related to CodeSheetCentral that you might find helpful:
 
 - [Learn Cpp](https://www.learncpp.com/): Great resource for learning coding from scratch.
 
+- [Cs50p](https://cs50.harvard.edu/python/2022/): This course by Harvard University's CS50 is an introduction to the art of programming using Python. It is designed for people with no prior experience in programming.
+
 ## References and Attributions
 
-The C++ cheatsheet is derived from [Source Name](https://github.com/mortennobel/cpp-cheatsheet). 
+The C++ cheatsheet is derived from [github.com/mortennobel/cpp-cheatsheet](github.com/mortennobel/cpp-cheatsheet). 
+
+The Python cheatsheet is derived from [github.com/gto76/python-cheatsheet](github.com/gto76/python-cheatsheet). 
 
 I believe in providing due credit and promoting the hard work of original authors. Therefore, each cheatsheet in our repository will have a reference back to its original source.
 
